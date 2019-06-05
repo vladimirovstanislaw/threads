@@ -8,3 +8,11 @@ public class Runable {
 	}
 
 }
+/*
+cd C:/Users/svladimirov/eclipse-workspace/threads
+
+git add .
+git commit -m "Starvation and Livelock DONE"
+git push -u origin master
+
+*/
